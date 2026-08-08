@@ -1,6 +1,9 @@
 # HiveCN
 hiveCN 是一款免费的本地区域网群控工具，专为 hiveOS 打造，无需付费即可集中管理多台设备，操作简单高效。 hiveCN: Free LAN-based bulk management tool for hiveOS. Control multiple miners locally at zero cost.
 
+> 这是一个作者自己在用的项目，有任何使用问题加入我们的 Telegram 提交，作者会在第一时间修复。
+>
+> Telegram：[https://t.me/KKminer521](https://t.me/KKminer521)
 
 
 # HiveCN 群控端
