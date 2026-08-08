@@ -5,7 +5,7 @@ hiveCN 是一款免费的本地区域网群控工具，专为 hiveOS 打造，�
 >
 > Telegram：[https://t.me/KKminer521](https://t.me/KKminer521)
 > 
-> 您的每一次BUG提交都会使本项目更加强大
+> 众人拾柴火焰高，你的反馈，我们的动力。提交 Bug，一起打造更强大的 hiveCN。
 
 
 # HiveCN 群控端
